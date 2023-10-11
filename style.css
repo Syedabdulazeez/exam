@@ -107,3 +107,9 @@ color: #ffffff;
   padding: 3rem;
   border: 2px solid #3e5581;
 }
+
+@media screen and (max-width:768px) {
+ .ribbon{
+  display: none;
+ } 
+}
