@@ -130,6 +130,12 @@ header{
   background-color: white;
 }
 .imag_box-1{
+  background-image: url(asset/Image_2.jpg);
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.491);
+  background-repeat: no-repeat;
+}
+.imag_box-2{
   background-image: url(asset/Image_1.jpg);
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.491);
