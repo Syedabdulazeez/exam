@@ -200,7 +200,31 @@ body{
   font-weight: 600;
   margin-bottom: 3rem;
 }
+.latestnews h2{
+  font-size: 3rem;
+  margin-bottom: 3rem;
+  font-weight: 600;
+}
+.latestnews .cards .card img{
+ height: 50%;
+ border-radius: 1rem 1rem 0 0;
+}
+.latestnews .card{
+  border-radius: 1rem 1rem;
 
+}
+.card-body h5{
+  font-size: 3rem;
+  font-weight: 600;
+}
+.card-body p{
+  font-size: 2rem;
+  color: gray;
+}
+.card-body a{
+  padding: 1rem 2rem;
+  font-weight: 600;
+}
 
 
 .footer {
